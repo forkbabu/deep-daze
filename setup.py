@@ -29,7 +29,7 @@ setup(
     'text to image'
   ],
   install_requires=[
-    'torch>=1.7.1',
+    'torch>=1.7.0',
     'einops>=0.3',
     'ftfy',
     'numpy',
